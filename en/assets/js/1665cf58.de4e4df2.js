@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{71:function(n){n.exports=JSON.parse('{"allTagsPath":"/nuts-10303/en/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/nuts-10303/en/blog/tags/hello"}')}}]);
