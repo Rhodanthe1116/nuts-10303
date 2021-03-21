@@ -122,7 +122,7 @@ module.exports = {
         routeBasePath: 'student-one',
         sidebarPath: require.resolve('./sidebarsStudent.js'),
         editUrl:
-          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/student-one/',
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
         // ... other options
       }
     ],
@@ -134,7 +134,7 @@ module.exports = {
         routeBasePath: 'student-two',
         sidebarPath: require.resolve('./sidebarsStudent.js'),
         editUrl:
-          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/student-two/',
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
         // ... other options
       }
     ],
@@ -146,7 +146,7 @@ module.exports = {
         routeBasePath: 'student-three',
         sidebarPath: require.resolve('./sidebarsStudent.js'),
         editUrl:
-          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/student-three/',
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
         // ... other options
       }
     ],
@@ -158,7 +158,7 @@ module.exports = {
         routeBasePath: 'student-four',
         sidebarPath: require.resolve('./sidebarsStudent.js'),
         editUrl:
-          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/student-four/',
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
         // ... other options
       }
     ],
@@ -170,7 +170,7 @@ module.exports = {
         routeBasePath: 'student-five',
         sidebarPath: require.resolve('./sidebarsStudent.js'),
         editUrl:
-          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/student-five/',
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
         // ... other options
       }
     ],
