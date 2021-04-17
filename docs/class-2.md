@@ -40,8 +40,8 @@ title: "2021-03-20"
 
 ## 下次上課
 
+- 管理程式碼、專案上傳區: gitbook, trinket, hackmd
 - 作業 寫的方法 加班群
 - 要 zerojudge 的 id
-- 專案上傳區
 
 ## 備註

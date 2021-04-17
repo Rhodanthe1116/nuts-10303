@@ -24,11 +24,12 @@ module.exports = {
           position: 'left',
         },
         // { to: 'blog', label: 'Blog', position: 'left' },
-        { to: 'student-one/', label: 'Student1', position: 'left' },
-        { to: 'student-two/', label: 'Student2', position: 'left' },
+        // { to: 'game/', label: '遊戲開發', position: 'left' },
+        { href: 'https://105176.gitbook.io/python/', label: 'Student1', position: 'left' },
+        { href: 'https://103154.gitbook.io/python/', label: 'Student2', position: 'left' },
         { to: 'student-three/', label: 'Student3', position: 'left' },
-        { to: 'student-four/', label: 'Student4', position: 'left' },
-        { to: 'student-five/', label: 'Student5', position: 'left' },
+        { href: 'https://105402.gitbook.io/python1-1/', label: 'Student4', position: 'left' },
+        { href: 'https://alex98050287.gitbook.io/5/', label: 'Student5', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -114,6 +115,18 @@ module.exports = {
     ],
   ],
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'game',
+        path: 'game',
+        routeBasePath: 'game',
+        sidebarPath: require.resolve('./sidebarsGame.js'),
+        editUrl:
+          'https://github.com/Rhodanthe1116/nuts-10303/edit/master/',
+        // ... other options
+      }
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
