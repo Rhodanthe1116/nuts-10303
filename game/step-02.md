@@ -155,9 +155,9 @@ up to get points. There's also a `player_list` which holds only the
 player.
 
 - Documentation for the [Sprite
-  class](../../arcade.html#arcade.Sprite)
+  <!-- class](../../arcade.html#arcade.Sprite) -->
 - Documentation for the [SpriteList
-  class](../../arcade.html#arcade.SpriteList)
+  <!-- class](../../arcade.html#arcade.SpriteList) -->
 
 Notice that the code creates `Sprites` three ways:
 

@@ -10,7 +10,7 @@ title: 簡單平台遊戲
 
 此教學分為以下幾個部分：
 
-- [step_01](/game/step-01)
+<!-- - [step_01](/game/step-01)
 - [step_02](/game/step-02)
 - [step_03](/game/step-03)
 - [step_04](/game/step-04)
@@ -20,4 +20,4 @@ title: 簡單平台遊戲
 - [step_08](/game/step-08)
 - [step_09](/game/step-09)
 - [step_10](/game/step-10)
-- [step_11](/game/step-11)
+- [step_11](/game/step-11) -->
